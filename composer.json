@@ -1,0 +1,6 @@
+{
+    "name": "bit3/contao-mobile-detect-service",
+    "description": "MobileDetect as a service.",
+    "type": "contao-module",
+    "license": "MIT"
+}
