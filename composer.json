@@ -19,7 +19,6 @@
     }
   ],
   "support": {
-    "email": "info@bit3.de",
     "issues": "https://github.com/contao-community-alliance/mobile-detect-service/issues",
     "irc": "irc://irc.freenode.org/contao.dev",
     "source": "https://github.com/contao-community-alliance/mobile-detect-service"
