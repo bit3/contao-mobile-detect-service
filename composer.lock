@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f52e7cc73b02eea3afa63678e5fca935",
-    "content-hash": "f509d5de911118c0413d35fca0edf12d",
+    "hash": "2a141c45bec5393b650f8de42c9d5b55",
+    "content-hash": "bb60bf4f8779c6ac3dd3708863eaff32",
     "packages": [
         {
             "name": "contao-community-alliance/composer-plugin",
