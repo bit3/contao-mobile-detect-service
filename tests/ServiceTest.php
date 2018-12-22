@@ -1,23 +1,32 @@
 <?php
 
 /**
- * Contao Composer Installer
+ * This file is part of contao-community-alliance/mobile-detect-service.
  *
- * Copyright (C) 2013 Contao Community Alliance
+ * (c) 2013-2018 Contao Community Alliance.
  *
- * @package contao-composer
- * @author  David Molineus <david.molineus@netzmacht.de>
- * @author  Tristan Lins <tristan.lins@bit3.de>
- * @link    http://c-c-a.org
- * @license LGPL-3.0+
+ * For the full copyright and license information, please view the LICENSE
+ * file that was distributed with this source code.
+ *
+ * This project is provided in good faith and hope to be usable by anyone.
+ *
+ * @package    contao-community-alliance/mobile-detect-service
+ * @author     David Molineus <david.molineus@netzmacht.de>
+ * @author     Tristan Lins <tristan.lins@bit3.de>
+ * @author     Sven Baumann <baumann.sv@gmail.com>
+ * @copyright  2013-2018 Contao Community Alliance.
+ * @license    https://github.com/contao-community-alliance/mobile-detect-service/blob/master/LICENSE LGPL-3.0
+ * @filesource
  */
 
 namespace Bit3\Contao\MobileDetectService\Test;
 
+use PHPUnit\Framework\TestCase;
+
 /**
  * Test if the service is registered properly.
  */
-class ServiceTest extends \PHPUnit_Framework_TestCase
+class ServiceTest extends TestCase
 {
     /**
      * Test registration of the service.

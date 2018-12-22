@@ -1,20 +1,20 @@
 <?php
 
 /**
- * This file is part of bit3/contao-mobile-detect-service.
+ * This file is part of contao-community-alliance/mobile-detect-service.
  *
- * (c) Tristan Lins <tristan.lins@bit3.de>
+ * (c) 2013-2018 Contao Community Alliance.
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  *
  * This project is provided in good faith and hope to be usable by anyone.
  *
- * @package    bit3/contao-mobile-detect-service
+ * @package    contao-community-alliance/mobile-detect-service
  * @author     Tristan Lins <tristan.lins@bit3.de>
- * @copyright  bit3 UG <https://bit3.de>
- * @link       https://github.com/bit3/contao-mobile-detect-service
- * @license    https://github.com/bit3/contao-mobile-detect-service/blob/master/LICENSE MIT
+ * @author     Sven Baumann <baumann.sv@gmail.com>
+ * @copyright  2013-2018 Contao Community Alliance.
+ * @license    https://github.com/contao-community-alliance/mobile-detect-service/blob/master/LICENSE LGPL-3.0
  * @filesource
  */
 
